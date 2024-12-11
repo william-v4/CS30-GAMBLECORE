@@ -1,0 +1,2 @@
+# CS30-GAMBLECORE
+a CS30 project
